@@ -22,18 +22,18 @@ Write the HTML and CSS code for designing book cover page and execute them.
         .bookpage{
             width: 400px;
             height: 600px;
-            color:crimson;
+            color:rgb(36, 25, 197);
             margin-left: auto;
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(/static/images/back.jpg);
+            background-image: url(/static/images/color.png);
             background-size: cover;
         }
             
 
         .insight{
-            color: blue;
+            color:violet;
 
         }
 
@@ -110,13 +110,13 @@ Write the HTML and CSS code for designing book cover page and execute them.
                 C,C++,Python and more.
             </div>
             <div class="mypic">
-                <img src="/static/images/my.jpg" width="130" height="145" alt="">
+                <img src="/static/images/dkdilip.jpg" width="130" height="160" alt="">
             </div>
             <div class="id">
                 <hr style="color: indigo;">
             </div>
             <div class="author">
-               <p><b>Pravin</b></p>
+               <p><b>DILIP KUMAR</b></p>
             </div>
             <div class="pub">
                 SEC
